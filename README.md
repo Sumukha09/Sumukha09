@@ -2,19 +2,18 @@
 
 ## 👨‍💻 About Me
 - 🎓 **AI & Data Science Student** 
-- 🤖 Passionate about **Computer Vision** and **Conversational AI**
-- 🚀 Specialized in building AI-driven platforms for **Healthcare, Tourism, and Security**
-- ⚙️ Currently focusing on **Scalable AI Solutions** and **RAG-based Chatbots**
+- 🔭 Currently working on AI-powered prediction tools and full-stack web applications.
+- 📚 Learning advanced machine learning techniques, frontend frameworks, and cybersecurity.
 
 ## 🔗 Connect with Me
 - 🌐 Portfolio: [Check out my work here](https://sumukha09.github.io/Portfolio/) 
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-id)
-- 📧 Email: [your-email@gmail.com](mailto:yourmail@gmail.com)
+- 📧 Email: [sumukhapb2004@gmail.com](mailto:yourmail@gmail.com)
 
 ## 🚀 Tech Stack
-- **AI/ML:** Python | OpenCV | TensorFlow | Scikit-learn | LangChain
-- **Web & Apps:** React.js | Node.js | Firebase | Flask
-- **Tools:** Git | Docker | VS Code | Jupyter Notebook
+- **AI/ML:** Python | OpenCV | TensorFlow | Scikit-learn | 
+- **Web & Apps:** React.js | Node.js | Mongo DB | Flask
+- **Tools:** Git |  VS Code | Jupyter Notebook
 
 ## 🛠️ Key Projects
 - 🌍 **AI-Driven Smart Tourism**: A platform providing safe and personalized travel experiences using AI.
@@ -26,7 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumukha09&layout=compact&theme=dark)
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:sumukhapb2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your-id">
