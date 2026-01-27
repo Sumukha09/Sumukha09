@@ -6,7 +6,7 @@
 - 📚 Learning advanced machine learning techniques, frontend frameworks, and cybersecurity.
 
 ## 🔗 Connect with Me
-- 🌐 Portfolio: [Check out my work here](https://sumukha09.github.io/Portfolio/) 
+- 🌐 Portfolio: [Check out my work here](https://portfolio-rho-drab-xoymbyxnxs.vercel.app/) 
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-id)
 - 📧 Email: [sumukhapb2004@gmail.com](mailto:yourmail@gmail.com)
 
