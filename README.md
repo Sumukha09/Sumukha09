@@ -7,7 +7,7 @@
 
 ## 🔗 Connect with Me
 - 🌐 Portfolio: [Check out my work here](https://portfolio-rho-drab-xoymbyxnxs.vercel.app/) 
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-id)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sumukha-pb-17149031a/)
 - 📧 Email: [sumukhapb2004@gmail.com](mailto:yourmail@gmail.com)
 
 ## 🚀 Tech Stack
